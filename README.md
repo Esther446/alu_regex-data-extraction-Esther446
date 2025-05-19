@@ -19,19 +19,23 @@ Hashtags (e.g., #example, #ThisIsAHashtag)
 Currency amounts formatted in US style (e.g., $19.99, $1,234.56)
 
 Clone the repository to your local machine;
-git clone https://github.com/yourusername/alu_regex-data-extraction-yourusername.git
+
+git clone https://github.com/Esther446/alu_regex-data-extraction-Esther446.git
 
 Navigate to the project folder;
-cd alu_regex-data-extraction-yourusername
+
+cd alu_regex-data-extraction-Esther446
 
 Run the script on a sample text file or your own file;
+
 python3 regex_extractor.py
 
 To extract data from a specific file, provide the filename as an argument;
-python3 regex_extractor.py myfile.txt
+python3 regex_extractor.py output.txt
 
 When you run the script, it will display the data it found in a clear, organized manner:
-=== EXTRACTION RESULTS ===
+
+ EXTRACTION RESULTS
 
 EMAIL matches (2 found):
 ----------------------------------------

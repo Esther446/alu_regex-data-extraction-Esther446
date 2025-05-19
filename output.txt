@@ -42,4 +42,3 @@ HASHTAG matches (2 found):
   • #example
   • #ThisIsAHashtag
 
-✅ Results saved to 'extraction_results.txt'.
