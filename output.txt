@@ -1,0 +1,45 @@
+=== EXTRACTION RESULTS ===
+
+EMAIL matches (2 found):
+----------------------------------------
+  • user@example.com
+  • firstname.lastname@company.co.uk
+
+URL matches (2 found):
+----------------------------------------
+  • https://www.example.com
+  • https://subdomain.example.org/page
+
+PHONE NUMBER matches (3 found):
+----------------------------------------
+  • (123) 456-7890
+  • 123-456-7890
+  • 123.456.7890
+
+CREDIT CARD matches (2 found):
+----------------------------------------
+  • 1234 5678 9012 3456
+  • 1234-5678-9012-3456
+
+CURRENCY matches (2 found):
+----------------------------------------
+  • $19.99
+  • $1,234.56
+
+TIME matches (2 found):
+----------------------------------------
+  • 14:30
+  • 2:30 PM
+
+HTML TAG matches (3 found):
+----------------------------------------
+  • p
+  • div
+  • img
+
+HASHTAG matches (2 found):
+----------------------------------------
+  • #example
+  • #ThisIsAHashtag
+
+✅ Results saved to 'extraction_results.txt'.
